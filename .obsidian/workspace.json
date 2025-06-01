@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2740acb2d8ffbebf",
+        "id": "e11cb9b5d5f701fb",
         "type": "tabs",
         "children": [
           {
-            "id": "17c89d6b7d4a2bc0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "material/4-Classic Data Center_part2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "4-Classic Data Center_part2"
-            }
-          },
-          {
-            "id": "653090ee41ceed28",
+            "id": "6c9ccb8d956a181f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pt.1.md",
+                "file": "notes/bigdata-pt.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pt.1"
+              "title": "bigdata-pt.3"
+            }
+          },
+          {
+            "id": "b1a46ced48b8d08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -156,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "material/4-Classic Data Center_part2.pdf",
+                "file": "notes/bigdata-pt.3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4-Classic Data Center_part2"
+              "title": "Outline of bigdata-pt.3"
             }
           }
         ],
@@ -170,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,19 +186,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "17c89d6b7d4a2bc0",
+  "active": "6c9ccb8d956a181f",
   "lastOpenFiles": [
+    "README.md",
+    "notes/bigdata-pt.3.md",
+    "todo.md",
+    "bigdata-pt.3.md",
+    "notes/bigdata-pt.2.md",
+    "notes/bigdata-pt.1.md",
+    "pt.2.md",
+    "notes",
+    "bigdata-pt.1.md",
+    "bigdata-pt.2.md",
+    "material/BigData Lecture 2.pdf",
+    "material/BigData Lecture 1.pdf",
+    "material/Google_Colab_Part1_Cloud_BigData.pdf",
     "pt.1.md",
     "material/4-Classic Data Center_part2.pdf",
     "material/3-Classic Data Center_part1.pdf",
-    "pt.2.md",
     "material/2_ AI_Bigdata and the cloud.pdf",
     "material/1-IntroductiontoCloudComputing.pdf",
     "material/Syllabus.pdf",
-    "material/5. Virtualization_VDC_Compute.pdf",
-    "material/Cloud computing and big data_practice_Final_version.pdf",
-    "material/CIS Module 5_VDC_Networking.pdf",
-    "material/CIS Module 6_VDC_Desktop and Application.pdf",
-    "notes"
+    "material/5. Virtualization_VDC_Compute.pdf"
   ]
 }
