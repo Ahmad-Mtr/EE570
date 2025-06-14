@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c9ccb8d956a181f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/bigdata-pt.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bigdata-pt.3"
-            }
-          },
-          {
             "id": "b1a46ced48b8d08a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/bigdata-pt.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "bigdata-pt.1"
+            }
+          },
+          {
+            "id": "74294355a9c6574c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/5th-topic-vdc.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5th-topic-vdc"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "28dc85c2b0eb8bbb",
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bigdata-pt.3.md",
+                "file": "notes/5th-topic-vdc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bigdata-pt.3"
+              "title": "Outline of 5th-topic-vdc"
             }
           }
         ],
@@ -186,27 +186,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6c9ccb8d956a181f",
+  "active": "74294355a9c6574c",
   "lastOpenFiles": [
-    "README.md",
-    "notes/bigdata-pt.3.md",
+    "notes/bigdata-pt.1.md",
+    "notes/google-collab.md",
+    "notes/analytics-&-aiDev-cloud.md",
+    "material/Cloud computing and bigdata_sample_final_examples.pdf",
+    "material/DataAnalytics and AI Development_with_Cloud__final.pdf",
+    "material/Cloud computing and big data_practice_Final_version.pdf",
+    "material/Datan_analysis with_Cloud.pdf",
+    "material/Google_Colab_Part1_Cloud_BigData.pdf",
+    "notes/6th-topic-vdc-desktop&Apps.md",
+    "notes/5th-topic-vdc-networking.md",
+    "notes/5th-topic-vdc.md",
+    "material/3-Classic Data Center_part1.pdf",
+    "notes/4th-topic-classical-ds-pt.2.md",
+    "notes/3rd-topic-classical-datacenter-pt.1.md",
+    "material/CIS Module 6_VDC_Desktop and Application.pdf",
+    "material/2_ AI_Bigdata and the cloud.pdf",
+    "notes/bigdata-pt.5.md",
+    "material/1-IntroductiontoCloudComputing.pdf",
+    "material/CIS Module 5_VDC_Networking.pdf",
+    "notes/bigdata-pt.4.md",
     "todo.md",
+    "notes/bigdata-pt.3.md",
+    "README.md",
     "bigdata-pt.3.md",
     "notes/bigdata-pt.2.md",
-    "notes/bigdata-pt.1.md",
     "pt.2.md",
-    "notes",
     "bigdata-pt.1.md",
     "bigdata-pt.2.md",
-    "material/BigData Lecture 2.pdf",
-    "material/BigData Lecture 1.pdf",
-    "material/Google_Colab_Part1_Cloud_BigData.pdf",
-    "pt.1.md",
-    "material/4-Classic Data Center_part2.pdf",
-    "material/3-Classic Data Center_part1.pdf",
-    "material/2_ AI_Bigdata and the cloud.pdf",
-    "material/1-IntroductiontoCloudComputing.pdf",
-    "material/Syllabus.pdf",
-    "material/5. Virtualization_VDC_Compute.pdf"
+    "pt.1.md"
   ]
 }

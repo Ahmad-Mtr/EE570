@@ -1,6 +1,4 @@
-- [ ] Data Categories by structurness
-- [ ] 3 V's
-- [x] RACI
+- [ ] 
 
 
 **3 V's**
